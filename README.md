@@ -1,4 +1,4 @@
-# [Unified Residual Learning and Exogenous Anchors](#)
+# [Paper: Attention Projection Mixing and Exogenous Anchors](#)
 
 ## Download Repository
 
