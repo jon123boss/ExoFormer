@@ -136,3 +136,5 @@ The script automatically:
 - Detects the appropriate model architecture (model1.py - model4.py) for each checkpoint
 - Processes all available models sequentially
 - Generates comprehensive analysis reports and visualizations
+
+*Note: Some results may include the input embedding.*
