@@ -1,4 +1,4 @@
-# [Paper: Attention Projection Mixing and Exogenous Anchors](#)
+# [Paper: Attention Projection Mixing and Exogenous Anchors](https://arxiv.org/abs/2601.08131#:~:text=Transformers%20that%20reuse%20early%2Dlayer,as%20an%20effective%20computational%20block.)
 
 ## Download Repository
 
